@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @DonnaReilly
+- 
 - 👀 I’m interested in all things technology
+- 
 - 🌱 I’m currently learning R language
-- 💞️ I’m looking to collaborate on any projects 
+- 
+- 💞️ I’m looking to collaborate on any projects
+
 - 📫 How to reach me via email:donnareillycontent@gmail.com
 
 <!---
